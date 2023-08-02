@@ -6,7 +6,7 @@ script.type = 'text/javascript';
 script.src="https://unpkg.com/sweetalert/dist/sweetalert.min.js";
 document.body.appendChild(script);
 
-// Header
+// Header for the main page
 
 let header = $(`
 <nav class="navbar navbar-expand-lg fixed-top dark-theme" id="navbar">
@@ -27,7 +27,6 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Hobbies</a></li>
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()" checked>
    </li>
@@ -108,7 +107,6 @@ let header = $(`
 </nav>`);
 
 // Footer
-
 let footer = $(`
 <footer class="footer sticky-bottom"  style="background-color:#2b2a2a;">
   <div class="p-4">

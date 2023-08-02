@@ -9,21 +9,21 @@ const exp = [
     cardImage: "assets/images/experience-page/ria.jpg",
     place: "Ria Money Transfer",
     time: "(May, 2023 - Aug, 2023)",
-    desp: "<li>Increased business efficiency by creating an API endpoint.</li> <li>Restructured routing directory making it simpler to navigate and read.</li> <li>Resolved over 15 tickets</li> <li><i>Technologies/Programming Languages</i>: Angular, C#, SQL, SMSS, Jira, Azure</li>",
+    desp: "<li><b>Streamlined Transactions:</b> Analyzed and optimized SQL database, procs, and API calls to reduce client-side transaction time by 7%. Removed unnecessary client-side document requests, enhancing customer experience.</li> <li><b>API Development:</b> Worked on an API endpoint to automate approval code generation for large sum check cashing, replacing manual backend generation.</li> <li><b>Web App Efficiency:</b> Simplified FxClient web app design and reduced API calls, improving speed and usability. Contributed to both front and back-end improvements, resolving over 30 tickets.</li> <li><b>Impact:</b> Directly impacted the efficiency of accounting employees and provided a more hassle-free experience for customers.</li> <li><b><i> Technology Stack: </b> Utilized Angular for frontend, C# for APIs, and SMSS for SQL management. Created 3 API protocols in C#, 9 reactive web pages in Angular, and 2 SQL Procs. </i></li>",
   },
   {
     title: "Teaching Assistant",
     cardImage: "assets/images/experience-page/vt.jpg",
     place: "Virginia Tech",
     time: "(August 2022 - May, 2023)",
-    desp: "<li>Courses taught: CS 1114 (Introduction to Software Design), CS 2114 (Software Design & Data Structures)</li><li>Taught data structures like and programming concepts like recursion, abstraction, polymorphism, and generics in Java.</li><li>Held 10 hours of office hours and labs every week.</li>",
+    desp: "<li><b>Courses taught:</b> CS 1114 (Introduction to Software Design), CS 2114 (Software Design & Data Structures)</li><li><b>Object-Oriented Programming (OOP):</b> Taught OOP fundamentals and concepts such as polymorphism, abstraction, scoping, along with JUnit mutation testing.</li><li> <b>Lab Sessions:</b> Conducted lab sessions to assist students with classwork, providing hands-on guidance and personalized support. </b></li> <li><b> Data Structure Mastery:</b> Guided students in visually conceptualizing and coding essential data structures like queues, stacks, linked lists, trees, binary trees, and graphs, with in-depth explanations of code implementations.</li> <li><b>Educational Impact:</b> Facilitated learning through interactive and engaging methods, empowering students to understand complex programming concepts and succeed in their academic pursuits.</li>",
   },
   {
     title: "Software Development Intern",
     cardImage: "assets/images/experience-page/geektrust.png",
     place: "Geektrust",
     time: "(May 2022 - Aug 2022)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp: "<li><b>Software Architecture Enhancement:</b> Leveraged expertise in Go, Angular, and Typescript to enhance the company's software architecture, resolving existing bugs and incorporating advanced frontend and backend features.</li><li><b>Backend Search Filter Optimization:</b> Spearheaded the design and implementation of an optimized backend search filter, boosting efficiency by 10% for the hiring team. Eliminated redundant API calls through integration of a personally-created, efficient API.</li><li><b>RESTful API Development:</b> Demonstrated proficiency in modern API interaction and integration, developing comprehensive RESTful API calls.</li><li><b>Containerization Expertise:</b> Built a versatile RabbitMQ Docker image, highlighting skills in deploying and managing containerized software applications.</li><li><b>Frontend Development:</b> Conceptualized and implemented a robust frontend filter using Angular pipes, actively utilized for sorting badges and objects on Geektrust's interface, showcasing the practical value of contributions.</li>",
   },
 ];
 
