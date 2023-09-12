@@ -7,25 +7,25 @@ const moocscards = [
   {
     title: "Intro to Machine Learning",
     cardImage: "assets/images/experience-page/vt.png",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    moocLink: "https://cs.vt.edu/Undergraduate/courses/CS4824.html",
     vtLink:"https://cs.vt.edu/Undergraduate/courses/CS4824.html"
   },
   {
     title: "Computer Systems",
     cardImage: "assets/images/experience-page/vt.png",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    moocLink: "https://courses.cs.vt.edu/cs3214/spring2023",
     vtLink:"https://courses.cs.vt.edu/cs3214/spring2023"
   },
   {
     title: "Comparative Languages",
     cardImage: "assets/images/experience-page/vt.png",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    moocLink: "https://courses.cs.vt.edu/cs3214/spring2023",
     vtLink:"https://courses.cs.vt.edu/cs3214/spring2023"
   },
   {
     title: "Data Structures and Algorithms",
     cardImage: "assets/images/experience-page/vt.png",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    moocLink: "https://courses.cs.vt.edu/cs3114/",
     vtLink:"https://courses.cs.vt.edu/cs3114/"
   },
 ];
